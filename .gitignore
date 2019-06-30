@@ -3,6 +3,7 @@
 
 # Temporary files
 temp/
+Scrapping/tutorial/data
 
 # Python stuff
 # Byte-compiled / optimized / DLL files
