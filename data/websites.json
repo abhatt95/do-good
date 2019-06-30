@@ -1,0 +1,643 @@
+[
+    {
+        "name": "Blind Cat Rescue & Sanctuary Inc",
+        "url": "http://www.blindcatrescue.com",
+        "imageurl": "https://cdn.greatnonprofits.org/images/thumbnails/organizations/cora.png",
+        "causes": [
+            "Animal Protection & Welfare",
+            "Animals",
+            "Cats"
+        ],
+        "contact": {
+            "email": null,
+            "phone": " "
+        },
+        "address": {
+            "city": "St. Pauls",
+            "country": "USA",
+            "zipcode": "28384",
+            "state": "NC",
+            "streetAddress": "3101 E. Great Marsh Church Road "
+        }
+    },
+    {
+        "name": "Reel American Heroes Foundation",
+        "url": "http://www.reelamericanheroes.org",
+        "imageurl": "https://cdn.greatnonprofits.org/images/thumbnails/organizations/rahf811.jpg",
+        "causes": [
+            "Military & Veterans Organizations",
+            "Veterans"
+        ],
+        "contact": {
+            "email": null,
+            "phone": null
+        },
+        "address": {
+            "city": "Woodbridge",
+            "country": "USA",
+            "zipcode": "22192",
+            "state": "VA",
+            "streetAddress": "4196 Merchant Plaza #133 "
+        }
+    },
+    {
+        "name": "Erowid Center",
+        "url": "https://erowid.org/",
+        "imageurl": "https://cdn.greatnonprofits.org/images/thumbnails/organizations/erowid_collage_banner_v1.jpg",
+        "causes": [
+            "Education",
+            "Health",
+            "Libraries"
+        ],
+        "contact": {
+            "email": "info@erowid.org",
+            "phone": null
+        },
+        "address": {
+            "city": "Grass Valley",
+            "country": "USA",
+            "zipcode": "95945",
+            "state": "CA",
+            "streetAddress": "PO Box 1116 "
+        }
+    },
+    {
+        "name": "Freedom Alliance",
+        "url": "http://www.FreedomAlliance.org",
+        "imageurl": "https://cdn.greatnonprofits.org/images/thumbnails/organizations/Smith_Mtn_0029.JPG",
+        "causes": [
+            "Military & Veterans Organizations",
+            "Veterans"
+        ],
+        "contact": {
+            "email": null,
+            "phone": "703.444.7940"
+        },
+        "address": {
+            "city": "Dulles",
+            "country": "USA",
+            "zipcode": "20166",
+            "state": "VA",
+            "streetAddress": "22570 Markey Ct Ste 240 "
+        }
+    },
+    {
+        "name": "Kids In Need Foundation",
+        "url": "http://www.kinf.org",
+        "imageurl": "https://cdn.greatnonprofits.org/images/thumbnails/organizations/14494852_10154354827581294_4042013092543672214_n.jpg",
+        "causes": [
+            "Education"
+        ],
+        "contact": {
+            "email": "info@kinf.org",
+            "phone": "612-465-0135"
+        },
+        "address": {
+            "city": "Roseville",
+            "country": "USA",
+            "zipcode": "55113",
+            "state": "MN",
+            "streetAddress": "2719 Patton Rd "
+        }
+    },
+    {
+        "name": "Hands Across the Sea, Inc.",
+        "url": "http://www.handsacrossthesea.net",
+        "imageurl": "https://cdn.greatnonprofits.org/images/thumbnails/organizations/CanariesInfantSchool_FB.jpg",
+        "causes": [
+            "Education",
+            "Elementary & Secondary Schools",
+            "Libraries",
+            "Literacy",
+            "Remedial Reading & Encouragement"
+        ],
+        "contact": {
+            "email": null,
+            "phone": "617-320-3601"
+        },
+        "address": {
+            "city": "Boston",
+            "country": "USA",
+            "zipcode": "02205",
+            "state": "MA",
+            "streetAddress": "PMB 85043 PO Box 55071"
+        }
+    },
+    {
+        "name": "Peggy Adams Animal Rescue League of the Palm Beaches Inc",
+        "url": "http://www.peggyadams.org",
+        "imageurl": "https://cdn.greatnonprofits.org/images/thumbnails/organizations/PAARLsmall.jpg",
+        "causes": [
+            "Animal Protection & Welfare",
+            "Animals",
+            "Dogs"
+        ],
+        "contact": {
+            "email": "info@peggyadams.org",
+            "phone": "561-686-3663"
+        },
+        "address": {
+            "city": "West Palm Beach",
+            "country": "USA",
+            "zipcode": "33409",
+            "state": "FL",
+            "streetAddress": "3200 North Military Tr "
+        }
+    },
+    {
+        "name": "Soldiers' Angels",
+        "url": "http://www.soldiersangels.org",
+        "imageurl": "https://cdn.greatnonprofits.org/images/thumbnails/organizations/Chaplain-Cho-20.png",
+        "causes": [
+            "Disaster Aid",
+            "Disaster Preparedness & Relief Services",
+            "Human Services",
+            "Military & Veterans Organizations",
+            "Travelers Aid",
+            "Veterans"
+        ],
+        "contact": {
+            "email": "info@soldiersangels.org",
+            "phone": "210-629-0020"
+        },
+        "address": {
+            "city": "San Antonio",
+            "country": "USA",
+            "zipcode": "78217",
+            "state": "TX",
+            "streetAddress": "2700 NE Loop 410, Suite 310 "
+        }
+    },
+    {
+        "name": "Lingap Childrens Foundation",
+        "url": "http://lingapcenter.org",
+        "imageurl": "https://cdn.greatnonprofits.org/images/thumbnails/organizations/fbcover_8289679871922600.jpg",
+        "causes": [
+            "International",
+            "International Relief"
+        ],
+        "contact": {
+            "email": null,
+            "phone": "(517) 529-9702"
+        },
+        "address": {
+            "city": "Jackson",
+            "country": "USA",
+            "zipcode": "49204",
+            "state": "MI",
+            "streetAddress": "PO Box 1553 "
+        }
+    },
+    {
+        "name": "The Wild Animal Sanctuary",
+        "url": "http://www.wildanimalsanctuary.org",
+        "imageurl": "https://cdn.greatnonprofits.org/images/thumbnails/organizations/fbcover_101533139433194850.jpg",
+        "causes": [
+            "Animals",
+            "Education",
+            "Environment",
+            "Protection of Endangered Species",
+            "Wildlife Sanctuaries"
+        ],
+        "contact": {
+            "email": "information@wildanimalsanctuary.org",
+            "phone": "303-536-0118"
+        },
+        "address": {
+            "city": "Keenesburg",
+            "country": "USA",
+            "zipcode": "80643",
+            "state": "CO",
+            "streetAddress": "2999 County Road 53 "
+        }
+    },
+    {
+        "name": "Operation Paws for Homes",
+        "url": "https://ophrescue.org/",
+        "imageurl": "https://cdn.greatnonprofits.org/images/thumbnails/organizations/fbalbum_1210606072293455.jpg",
+        "causes": [
+            "Animal Protection & Welfare",
+            "Animal-Related",
+            "Animals",
+            "Dogs"
+        ],
+        "contact": {
+            "email": null,
+            "phone": "(703) 344-7320"
+        },
+        "address": {
+            "city": "Alexandria",
+            "country": "USA",
+            "zipcode": "22309",
+            "state": "VA",
+            "streetAddress": "P.O. Box 90813 "
+        }
+    },
+    {
+        "name": "Every Child Ministries",
+        "url": "http://www.ecmafrica.org",
+        "imageurl": "https://cdn.greatnonprofits.org/images/thumbnails/organizations/IMG_2270.jpg",
+        "causes": [
+            "Children & Youth",
+            "Christianity",
+            "International",
+            "International Human Rights",
+            "International Relief",
+            "Religion",
+            "Youth Development"
+        ],
+        "contact": {
+            "email": null,
+            "phone": "219-996-4201"
+        },
+        "address": {
+            "city": "Hebron",
+            "country": "USA",
+            "zipcode": "46341",
+            "state": "IN",
+            "streetAddress": "Box 810 875 S State Rd. 2"
+        }
+    },
+    {
+        "name": "Veteran Tickets Foundation - Vet Tix",
+        "url": "http://www.vettix.org",
+        "imageurl": "https://cdn.greatnonprofits.org/images/thumbnails/organizations/resize_VET-TIX_10thAD2_8.25x10.75_FINAL-PROOF.jpg",
+        "causes": [
+            "Military & Veterans Organizations",
+            "Veterans"
+        ],
+        "contact": {
+            "email": "support@vettix.org",
+            "phone": "888 241-1550"
+        },
+        "address": {
+            "city": "Tempe",
+            "country": "USA",
+            "zipcode": "85281",
+            "state": "AZ",
+            "streetAddress": "1255 W RIO SALADO PARKWAY Suite 209"
+        }
+    },
+    {
+        "name": "Inheritance of Hope",
+        "url": "http://www.InheritanceOfHope.org",
+        "imageurl": "https://cdn.greatnonprofits.org/images/thumbnails/organizations/JT4A9182a.jpg",
+        "causes": [
+            "Cancer",
+            "Children & Youth",
+            "Children & Youth Services",
+            "Family Services",
+            "Human Services"
+        ],
+        "contact": {
+            "email": "info@InheritanceOfHope.org",
+            "phone": "914-213-8435"
+        },
+        "address": {
+            "city": "Pisgah Forest",
+            "country": "USA",
+            "zipcode": "28768",
+            "state": "NC",
+            "streetAddress": "PO Box 90 "
+        }
+    },
+    {
+        "name": "OPEN DOORS WITH BROTHER ANDREW INC",
+        "url": "https://www.opendoorsusa.org/",
+        "causes": [
+            "Christianity",
+            "Religion"
+        ],
+        "contact": {
+            "email": null,
+            "phone": "(949) 752-6600"
+        },
+        "address": {
+            "city": "Santa Ana",
+            "country": "USA",
+            "zipcode": "92705",
+            "state": "CA",
+            "streetAddress": "2953 Pullman St "
+        }
+    },
+    {
+        "name": "RVR Horse Rescue",
+        "url": "http://www.rvrhorserescue.org/",
+        "imageurl": "https://cdn.greatnonprofits.org/images/thumbnails/organizations/20180529_193328.jpg",
+        "causes": [
+            "Animal Protection & Welfare",
+            "Animals"
+        ],
+        "contact": {
+            "email": "contact@rvrhorserescue.org",
+            "phone": "813-280-9299 "
+        },
+        "address": {
+            "city": "Riverview",
+            "country": "USA",
+            "zipcode": "33579",
+            "state": "FL",
+            "streetAddress": "12611 Hayes Clan Road c/o Shawn Jayroe"
+        }
+    },
+    {
+        "name": "Greyhound Adoption League of Texas Inc",
+        "url": "http://www.greyhoundadoptiontx.org/",
+        "imageurl": "https://cdn.greatnonprofits.org/images/thumbnails/organizations/10dog.jpg",
+        "causes": [
+            "Animal Protection & Welfare",
+            "Animals"
+        ],
+        "contact": {
+            "email": "info@greyhoundadoptiontx.org",
+            "phone": "972-503-GALT"
+        },
+        "address": {
+            "city": "Dallas",
+            "country": "USA",
+            "zipcode": "75204",
+            "state": "TX",
+            "streetAddress": "3400 Carlisle St Ste 310 "
+        }
+    },
+    {
+        "name": "CHARLESTON ANIMAL SOCIETY",
+        "url": "http://www.CharlestonAnimalSociety.org",
+        "imageurl": "https://cdn.greatnonprofits.org/images/thumbnails/organizations/BernadettePeters.jpg",
+        "causes": [
+            "Animal Protection & Welfare",
+            "Animal Training",
+            "Animals",
+            "Veterinary Services"
+        ],
+        "contact": {
+            "email": "info@charlestonanimalsociety.org",
+            "phone": "843-747-4849"
+        },
+        "address": {
+            "city": "North Charleston",
+            "country": "USA",
+            "zipcode": "29406",
+            "state": "SC",
+            "streetAddress": "2455 Remount Rd. "
+        }
+    },
+    {
+        "name": "Hope of the Valley Rescue Mission",
+        "url": "http://www.hopeofthevalley.org",
+        "imageurl": "https://cdn.greatnonprofits.org/images/thumbnails/organizations/laurieandelderlywomen2.jpg",
+        "causes": [
+            "Community Health Systems",
+            "Health",
+            "Homeless & Housing",
+            "Homeless Centers",
+            "Homeless Shelters",
+            "Human Services",
+            "Thrift Shops"
+        ],
+        "contact": {
+            "email": null,
+            "phone": "(818) 392-0020"
+        },
+        "address": {
+            "city": "Van Nuys",
+            "country": "USA",
+            "zipcode": "91401",
+            "state": "CA",
+            "streetAddress": "6425 Tyrone Street "
+        }
+    },
+    {
+        "name": "Educational Pathways International",
+        "url": "http://educationalpathwaysinternational.org",
+        "imageurl": "https://cdn.greatnonprofits.org/images/thumbnails/organizations/EPIlogo.jpg",
+        "causes": [
+            "Education",
+            "Philanthropy",
+            "Private Grantmaking Foundations",
+            "Scholarships",
+            "Scholarships & Student Financial Aid"
+        ],
+        "contact": {
+            "email": "info@educationalpathwaysinternational.org",
+            "phone": "775-832-6655"
+        },
+        "address": {
+            "city": "Incline Village",
+            "country": "USA",
+            "zipcode": "89451",
+            "state": "NV",
+            "streetAddress": "500 Fairview Blvd. "
+        }
+    },
+    {
+        "name": "Hunger Fight",
+        "url": "http://hungerfight.org/",
+        "imageurl": "https://cdn.greatnonprofits.org/images/thumbnails/organizations/Globe1.png",
+        "causes": [
+            "Disaster Aid",
+            "Education",
+            "Food",
+            "Food Banks & Pantries",
+            "Literacy",
+            "Nutrition",
+            "Public Safety, Disaster Preparedness & Relief",
+            "Remedial Reading & Encouragement"
+        ],
+        "contact": {
+            "email": "info@hungerfight.org",
+            "phone": "904-374-5623"
+        },
+        "address": {
+            "city": "Jacksonville",
+            "country": "USA",
+            "zipcode": "32207",
+            "state": "FL",
+            "streetAddress": "2935 Dawn Road "
+        }
+    },
+    {
+        "name": "Last Chance for Animals",
+        "url": "http://www.LCAnimal.org",
+        "imageurl": "https://cdn.greatnonprofits.org/images/thumbnails/organizations/Dog-Slaughterhouse-Action-Alert-1.png",
+        "causes": [
+            "Animal Protection & Welfare",
+            "Animals",
+            "Protection of Endangered Species"
+        ],
+        "contact": {
+            "email": null,
+            "phone": "310-271-6096"
+        },
+        "address": {
+            "city": "Los Angeles",
+            "country": "USA",
+            "zipcode": "90046",
+            "state": "CA",
+            "streetAddress": "8033 Sunset Blvd Suite 835"
+        }
+    },
+    {
+        "name": "Hope for the Warriors",
+        "url": "http://www.hopeforthewarriors.org",
+        "imageurl": "https://cdn.greatnonprofits.org/images/thumbnails/organizations/VeteransDay2018_Eblast_image.jpg",
+        "causes": [
+            "Philanthropy"
+        ],
+        "contact": {
+            "email": "info@hopeforthewarriors.org",
+            "phone": "877.2HOPE4W"
+        },
+        "address": {
+            "city": "Springfield",
+            "country": "USA",
+            "zipcode": "22151",
+            "state": "VA",
+            "streetAddress": "8003 Forbes Place Suite 201"
+        }
+    },
+    {
+        "name": "RedRover",
+        "url": "https://www.redrover.org",
+        "imageurl": "https://cdn.greatnonprofits.org/images/thumbnails/organizations/1815.jpg",
+        "causes": [
+            "Animal Protection & Welfare",
+            "Animals",
+            "Children & Youth",
+            "International",
+            "International Relief",
+            "Scouting"
+        ],
+        "contact": {
+            "email": "info@redrover.org",
+            "phone": "916.429.2457"
+        },
+        "address": {
+            "city": "Sacramento",
+            "country": "USA",
+            "zipcode": "95818",
+            "state": "CA",
+            "streetAddress": "PO Box 188890 "
+        }
+    },
+    {
+        "name": "Forever Family Foundation Inc",
+        "url": "http://www.foreverfamilyfoundation.org",
+        "imageurl": "https://cdn.greatnonprofits.org/images/thumbnails/organizations/Janet-Nohavec-Bonfire-Shot-Grief-Retreat-2016-400w-for-CC.jpg",
+        "causes": [
+            "Human Services"
+        ],
+        "contact": {
+            "email": null,
+            "phone": "631-425-7707"
+        },
+        "address": {
+            "city": "Oceanside",
+            "country": "USA",
+            "zipcode": "11572",
+            "state": "NY",
+            "streetAddress": "222 Atlantic Avenue "
+        }
+    },
+    {
+        "name": "The American Anti-Vivisection Society",
+        "url": "http://www.aavs.org",
+        "imageurl": "https://cdn.greatnonprofits.org/images/thumbnails/organizations/AAVSmainlogo.png",
+        "causes": [
+            "Animal Protection & Welfare",
+            "Animals"
+        ],
+        "contact": {
+            "email": null,
+            "phone": "(215) 887-0816"
+        },
+        "address": {
+            "city": "Jenkintown",
+            "country": "USA",
+            "zipcode": "19046",
+            "state": "PA",
+            "streetAddress": "801 Old York Road Suite 204 204"
+        }
+    },
+    {
+        "name": "D & R Rescue Inc",
+        "url": "http://",
+        "causes": [
+            "Animal Protection & Welfare",
+            "Animals"
+        ],
+        "contact": {
+            "email": null,
+            "phone": null
+        },
+        "address": {
+            "city": "Paris",
+            "country": "USA",
+            "zipcode": "61944",
+            "state": "IL",
+            "streetAddress": "21336 E Terre Haute Rd "
+        }
+    },
+    {
+        "name": "Endangered Species International",
+        "url": "http://www.endangeredspeciesinternational.org",
+        "imageurl": "https://cdn.greatnonprofits.org/images/thumbnails/organizations/fbcover_9714647729809563.jpg",
+        "causes": [
+            "Animals",
+            "Wildlife Preservation & Protection"
+        ],
+        "contact": {
+            "email": "info@endangeredspeciesinternational.org",
+            "phone": null
+        },
+        "address": {
+            "city": "San Francisco",
+            "country": "USA",
+            "zipcode": "94117",
+            "state": "CA",
+            "streetAddress": "2112 Hayes Street "
+        }
+    },
+    {
+        "name": "In-Sync Exotics, Inc.",
+        "url": "https://www.insyncexotics.org/",
+        "imageurl": "https://cdn.greatnonprofits.org/images/thumbnails/organizations/Odin6_Keri_Ostermann_June2018-KeriOstermann.jpg",
+        "causes": [
+            "Animal Protection & Welfare",
+            "Animals",
+            "Protection of Endangered Species",
+            "Wildlife Preservation & Protection",
+            "Wildlife Sanctuaries"
+        ],
+        "contact": {
+            "email": null,
+            "phone": "(972) 442-6888"
+        },
+        "address": {
+            "city": "Wylie",
+            "country": "USA",
+            "zipcode": "75098",
+            "state": "TX",
+            "streetAddress": "PO Box 968 "
+        }
+    },
+    {
+        "name": "Alliance of Hope for Suicide Loss Survivors",
+        "url": "http://www.allianceofhope.org",
+        "causes": [
+            "Counseling",
+            "Mental Health"
+        ],
+        "contact": {
+            "email": null,
+            "phone": "(847) 868-3313"
+        },
+        "address": {
+            "city": "Evanston",
+            "country": "USA",
+            "zipcode": "60201",
+            "state": "IL",
+            "streetAddress": "PO Box 7005 c/o Ronnie Susan Walker"
+        }
+    }
+]
