@@ -1,0 +1,4 @@
+Images:
+main-slider-1.jpg: https://givingcompass.org/article/helping-the-homeless-is-an-art/
+main-slider-2.jpg: https://careforthesheep.org/help-people-with-disabilities-those-in-need/
+main-slider-3.jpg: https://barkforce.com/8-great-reasons-adopt-dog
