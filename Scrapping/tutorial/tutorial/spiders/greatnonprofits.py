@@ -9,9 +9,13 @@ class QuotesSpider(scrapy.Spider):
     organizations = []
 
     def start_requests(self):
-        urls = [
-            'https://greatnonprofits.org/awards/browse/Campaign:Year2019/Issue:All/Page:1'
-        ]
+        url = 'https://greatnonprofits.org/awards/browse/Campaign:Year2019/Issue:All/Page:'
+        urls = []
+        for i in range(1,15):
+            urls.append(url+str(i))
+        #urls = [
+        #    'https://greatnonprofits.org/awards/browse/Campaign:Year2019/Issue:All/Page:1',
+        #]
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)
 
@@ -37,28 +41,13 @@ class QuotesSpider(scrapy.Spider):
             causes = row.xpath('.//td[@itemprop=\'description\']/text()').get().strip()
             org['causes'] = [causes.split(',')]
             i += 1
-            #organizations.append(org)
-            #print(row.xpath('.//td[@itemprop=\'name\']/a/@href').get())
 
             yield scrapy.Request(url=response.urljoin(row.xpath('.//td[@itemprop=\'name\']/a/@href').get()), callback=self.getDetail)
             
-        #self.writeToFile(self.organizations,self.fname)
         print('-------------------')
         print(self.organizations)
 
     def getDetail(self, response):
-        #print(response.xpath('//h1[@itemprop=\'name\']/text()').get())
-        #print(response.xpath('//a[@class=\'link-shortcut\']/@href').get())
-        #print(response.xpath('//span[@itemprop=\'streetAddress\']/text()').get())
-        #print(response.xpath('//span[@itemprop=\'addressLocality\']/text()').get())
-        #print(response.xpath('//span[@itemprop=\'addressRegion\']/text()').get().strip())
-        #print(response.xpath('//span[@itemprop=\'postalCode\']/text()').get())
-        #print(response.xpath('//span[@itemprop=\'addressCountry\']/text()').get())
-        #print(response.xpath('//span[@itemprop=\'telephone\']/text()').get())
-        #print(response.xpath('//span/a[@itemprop=\'email\']/text()').get())
-        #print(response.xpath('//p[@class=\'causes\']/a//text()').getall())
-        #print(response.xpath('//div[@itemprop=\'description\']//p[2]//text()').getall()[1])
-        #print(response.xpath('//div[@class=\'slider-container-owl-carousel\']//img/@src').extract()[0])
 
         org = {}
         org['name'] = response.xpath('//h1[@itemprop=\'name\']/text()').get()
