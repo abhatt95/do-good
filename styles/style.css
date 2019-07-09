@@ -1,12 +1,20 @@
+#website-name {
+  font-family: Palatino, URW Palladio L, serif;
+}
+
 .navbar {
   width: 100%;
-  background-color: gray;
+  background-color: #1392CE;
 }
 
 .slide {
   width: 100%;
   height: 400px;
   background-color: black;
+}
+
+.card-img-top {
+  height: 200px;
 }
 
 .carousel-inner {
@@ -26,5 +34,6 @@
   align-items: center;
 }
 
-.card {
+#resource-search-bar {
+  background-color: #e3f2fd;
 }

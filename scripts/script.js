@@ -1,5 +1,4 @@
 var getJSON = function(url, callback) {
-
     var xhr = new XMLHttpRequest();
     xhr.open('GET', url, true);
     xhr.responseType = 'json';
@@ -18,55 +17,71 @@ var getJSON = function(url, callback) {
     xhr.send();
 };
 
+
 var render = function(err, data) {
   if (err != null) {
       console.error(err);
   } else {
-    var card_per_row = 4;
+    var row = document.createElement("div");
+    row.className = "row"
+    for (var i = 0; i < data.length; i++) {
+        // create card
+        var card = document.createElement("div");
+        card.className = "card col-lg-3 col-md-4 col-sm-6 col-xs-12";
 
-    for (var i = 0; i < data.length; i += card_per_row) {
-        var row = document.createElement("div");
-        row.className = "row"
-
-        remaining = card_per_row;
-        if ((i + 1) * card_per_row > data.length) {
-            remaining = data.length - i * card_per_row;
+        // link card image
+        var card_img = document.createElement("img");
+        card_img.className = "card-img-top";
+        if (data[i].imageurl == null) {
+          card_img.src = "imgs/card-placeholder.png"
+        } else {
+          card_img.src = data[i].imageurl;
         }
+        card.appendChild(card_img);
 
-        for (var j = 0; j < remaining; j++) {
-            var card = document.createElement("div");
-            card.className = "card col-3";
-            var card_body = document.createElement("div");
-            card_body.className = "card-body";
-            card.appendChild(card_body);
+        var card_body = document.createElement("div");
+        card_body.className = "card-body";
+        card.appendChild(card_body);
 
-            // create card title
-            var card_title = document.createElement("h5");
-            card_title.className = "card-title";
-            var text = document.createTextNode(data[3 * i + j].name);
-            card_title.appendChild(text);
+        // create card content
+        var card_title = document.createElement("h5");
+        card_title.className = "card-title";
+        var text = document.createTextNode(data[i].name);
+        card_title.appendChild(text);
 
-            var card_text = document.createElement("p");
-            card_text.className = "card-text";
-            var text = document.createTextNode(data[3 * i + j].causes);
-            card_text.appendChild(text);
+        var card_text = document.createElement("p");
+        card_text.className = "card-text";
+        var text = document.createTextNode(data[i].causes);
+        card_text.appendChild(text);
 
-            var card_link = document.createElement("a");
-            card_link.className = "btn btn-primary";
-            card_link.href = data[3 * i + j].url;
-            var text = document.createTextNode("Website");
-            card_link.appendChild(text);
+        var card_link = document.createElement("a");
+        card_link.className = "btn btn-primary";
+        card_link.href = data[i].url;
+        var text = document.createTextNode("Website");
+        card_link.appendChild(text);
 
-            card_body.appendChild(card_title);
-            card_body.appendChild(card_text);
-            card_body.appendChild(card_link);
+        var card_footer = document.createElement("div");
+        card_footer.className = "card-footer";
+        var address = document.createElement("small");
+        address.className = "text-muted";
+        var text = document.createTextNode(data[i].address.streetAddress + ", " +
+                                           data[i].address.city + ", " +
+                                           data[i].address.state + ", " +
+                                           data[i].address.country);
+        address.appendChild(text);
+        card_footer.appendChild(address);
 
-            // insert into content
-            row.appendChild(card);
-        }
-        var element = document.getElementById("content");
-        element.appendChild(row);
-      }
+        // append content to the card
+        card_body.appendChild(card_title);
+        card_body.appendChild(card_text);
+        card_body.appendChild(card_link);
+        card.appendChild(card_footer)
+
+        // insert into content
+        row.appendChild(card);
+    }
+    var element = document.getElementById("content");
+    element.appendChild(row);
   }
 };
 
