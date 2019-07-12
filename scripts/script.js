@@ -24,10 +24,11 @@ var render = function(err, data) {
   } else {
     var row = document.createElement("div");
     row.className = "row"
+    row.id = "content-row"
     for (var i = 0; i < data.length; i++) {
         // create card
         var card = document.createElement("div");
-        card.className = "card col-lg-3 col-md-4 col-sm-6 col-xs-12";
+        card.className = data[i].address.state + " card col-lg-3 col-md-4 col-sm-6 col-xs-12";
 
         // link card image
         var card_img = document.createElement("img");
@@ -85,5 +86,23 @@ var render = function(err, data) {
   }
 };
 
+
+var filter = function() {
+  var state = document.getElementById("state-search").value;
+  var content = document.getElementById("content-row");
+  if (state == "All") {
+    for (var i = 0; i < content.children.length; i++) {
+      content.children[i].style.display = "block";
+    }
+  } else {
+    for (var i = 0; i < content.children.length; i++) {
+      if (content.children[i].classList.contains(state)) {
+        content.children[i].style.display = "block";
+      } else {
+        content.children[i].style.display = "none";
+      }
+    }
+  }
+}
 
 getJSON('https://abhatt95.github.io/do-good/data/websites.json',  render);
