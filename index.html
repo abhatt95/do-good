@@ -24,7 +24,7 @@
     <div class="container-fluid">
       <!-- Top header -->
       <div class="row">
-        <nav class="navbar navbar-light">
+        <nav id="heading" class="navbar navbar-light">
           <h1 id="website-name"><a class="navbar-brand" href="./index.html">Do Good</a></h1>
         </nav>
       </div>
@@ -60,7 +60,7 @@
       </div>
 
       <!-- Search bar -->
-      <div class="row">
+      <div id="search-bar" class="row">
         <nav id="resource-search-bar" class="navbar">
           <!-- Needs to finish implementing
           <form class="form-inline my-2 my-lg-0">
@@ -69,6 +69,7 @@
           </form>
           -->
 
+          <h3>Select a state: &nbsp&nbsp</h3>
           <select id="state-search" class="browser-default custom-select col-2" onchange="filter()">
             <option selected>All</option>
             <option value="AL">Alabama - AL</option>

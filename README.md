@@ -6,6 +6,3 @@ This website is a simple prototype that we've created to show the idea that we h
 ## Authors
 - [Abhishek Bhatt](https://github.com/abhatt95)
 - [Hsuan-Hau Liu](https://github.com/hsuanhauliu)
-
-## Future features
-- Location-based search

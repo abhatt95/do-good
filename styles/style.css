@@ -2,9 +2,14 @@
   font-family: Palatino, URW Palladio L, serif;
 }
 
-.navbar {
+#heading {
   width: 100%;
-  background-color: #1392CE;
+  background-image: linear-gradient(to bottom right, rgba(174,229,255,1), rgba(4,139,202,1));
+}
+
+#resource-search-bar {
+  width: 100%;
+  background-color: #139AAA;
 }
 
 .slide {
@@ -26,7 +31,7 @@
 }
 
 #search-bar {
-  width: 250px;
+  height: 80px;
 }
 
 #resource-search-bar {
@@ -35,5 +40,6 @@
 }
 
 #resource-search-bar {
+  height: 100%;
   background-color: #e3f2fd;
 }
