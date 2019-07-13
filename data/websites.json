@@ -641,27 +641,6 @@
         }
     },
     {
-        "name": "Erowid Center",
-        "url": "https://erowid.org/",
-        "imageurl": "https://cdn.greatnonprofits.org/images/thumbnails/organizations/erowid_collage_banner_v1.jpg",
-        "causes": [
-            "Education",
-            "Health",
-            "Libraries"
-        ],
-        "contact": {
-            "email": "info@erowid.org",
-            "phone": null
-        },
-        "address": {
-            "city": "Grass Valley",
-            "country": "USA",
-            "zipcode": "95945",
-            "state": "CA",
-            "streetAddress": "PO Box 1116 "
-        }
-    },
-    {
         "name": "Save The Whales Inc",
         "url": "http://www.savethewhales.org",
         "causes": [
@@ -677,51 +656,6 @@
             "zipcode": "93955",
             "state": "CA",
             "streetAddress": "1192 Waring St "
-        }
-    },
-    {
-        "name": "Greyhound Adoption League of Texas Inc",
-        "url": "http://www.greyhoundadoptiontx.org/",
-        "imageurl": "https://cdn.greatnonprofits.org/images/thumbnails/organizations/10dog.jpg",
-        "causes": [
-            "Animal Protection & Welfare",
-            "Animals"
-        ],
-        "contact": {
-            "email": "info@greyhoundadoptiontx.org",
-            "phone": "972-503-GALT"
-        },
-        "address": {
-            "city": "Dallas",
-            "country": "USA",
-            "zipcode": "75204",
-            "state": "TX",
-            "streetAddress": "3400 Carlisle St Ste 310 "
-        }
-    },
-    {
-        "name": "Every Child Ministries",
-        "url": "http://www.ecmafrica.org",
-        "imageurl": "https://cdn.greatnonprofits.org/images/thumbnails/organizations/IMG_2270.jpg",
-        "causes": [
-            "Children & Youth",
-            "Christianity",
-            "International",
-            "International Human Rights",
-            "International Relief",
-            "Religion",
-            "Youth Development"
-        ],
-        "contact": {
-            "email": null,
-            "phone": "219-996-4201"
-        },
-        "address": {
-            "city": "Hebron",
-            "country": "USA",
-            "zipcode": "46341",
-            "state": "IN",
-            "streetAddress": "Box 810 875 S State Rd. 2"
         }
     },
     {
@@ -863,30 +797,6 @@
         }
     },
     {
-        "name": "Soldiers' Angels",
-        "url": "http://www.soldiersangels.org",
-        "imageurl": "https://cdn.greatnonprofits.org/images/thumbnails/organizations/Chaplain-Cho-20.png",
-        "causes": [
-            "Disaster Aid",
-            "Disaster Preparedness & Relief Services",
-            "Human Services",
-            "Military & Veterans Organizations",
-            "Travelers Aid",
-            "Veterans"
-        ],
-        "contact": {
-            "email": "info@soldiersangels.org",
-            "phone": "210-629-0020"
-        },
-        "address": {
-            "city": "San Antonio",
-            "country": "USA",
-            "zipcode": "78217",
-            "state": "TX",
-            "streetAddress": "2700 NE Loop 410, Suite 310 "
-        }
-    },
-    {
         "name": "Conservation Volunteers International Program, Inc.",
         "url": "https://conservationvip.org/",
         "imageurl": "https://cdn.greatnonprofits.org/images/thumbnails/organizations/2920.jpg",
@@ -908,29 +818,6 @@
             "zipcode": "94563",
             "state": "CA",
             "streetAddress": "120 Village Square #9 "
-        }
-    },
-    {
-        "name": "The Wild Animal Sanctuary",
-        "url": "http://www.wildanimalsanctuary.org",
-        "imageurl": "https://cdn.greatnonprofits.org/images/thumbnails/organizations/fbcover_101533139433194850.jpg",
-        "causes": [
-            "Animals",
-            "Education",
-            "Environment",
-            "Protection of Endangered Species",
-            "Wildlife Sanctuaries"
-        ],
-        "contact": {
-            "email": "information@wildanimalsanctuary.org",
-            "phone": "303-536-0118"
-        },
-        "address": {
-            "city": "Keenesburg",
-            "country": "USA",
-            "zipcode": "80643",
-            "state": "CO",
-            "streetAddress": "2999 County Road 53 "
         }
     },
     {
@@ -8059,28 +7946,6 @@
             "zipcode": "20852",
             "state": "MD",
             "streetAddress": "The JCA Ann L. Bronfman Center 12320 Parklawn Dr"
-        }
-    },
-    {
-        "name": "Operation Paws for Homes",
-        "url": "https://ophrescue.org/",
-        "imageurl": "https://cdn.greatnonprofits.org/images/thumbnails/organizations/fbalbum_1210606072293455.jpg",
-        "causes": [
-            "Animal Protection & Welfare",
-            "Animal-Related",
-            "Animals",
-            "Dogs"
-        ],
-        "contact": {
-            "email": null,
-            "phone": "(703) 344-7320"
-        },
-        "address": {
-            "city": "Alexandria",
-            "country": "USA",
-            "zipcode": "22309",
-            "state": "VA",
-            "streetAddress": "P.O. Box 90813 "
         }
     },
     {
